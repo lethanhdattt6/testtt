@@ -1,0 +1,167 @@
+
+.phone{
+    padding: 10px;
+    background: #e97810;
+    font-size: 0.9rem;
+}
+.fas{
+    margin-right: 5px;
+}
+.v-dung{
+    margin: 0 10px;
+    font-weight: lighter;
+}
+.vo-d{
+    margin-left: 10px;
+    font-weight: lighter;
+}
+.phone .s-phone, .phone .free-ship{
+    color: #fbfff0;
+}
+.phone .compare{
+    color: #fbfff0;
+}
+.phone .compare #money, .phone .compare #language{
+    background: transparent;
+    color: #fbfff0;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.bg-1{
+    margin-left: 15px;
+}
+.logo{
+    padding: 40px;
+}
+.logo .a{
+    color: white;
+}
+.logo .a:hover{
+    color: #e97810;
+}
+.font-w{
+    font-size: 0.9rem;
+}
+.banner{
+    border-top: 1px solid gray;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    letter-spacing: 1.5px;
+}
+.navbar-light .navbar-nav .nav-link{
+    margin-left: 20px;
+    letter-spacing: 1.5px;
+    color: #1e1e1f;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link :hover{
+    text-decoration: none;
+    color: #1e1e1f;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    text-decoration: 2px solid #e97810;
+    color: #e97810;
+}
+.background{
+    padding: 200px;
+    background-image: url(../images/d44631b4a320c48b30b1dbc3a5b7a3dd0099bd4f_1_2.jpg);
+    background-size: 125%;
+    background-position: 50%;
+    padding-left: 20px;
+}
+.side{
+    color: black;
+}
+.dinning{
+    color: black;
+}
+.bg-2{
+    padding: 120px;
+    background-image: url(../images/1_2.jpg);
+    background-size: 130%;
+    background-position: 50%;
+    margin-top: 50px;
+    padding-left: 0;
+}
+.cf{
+    color: #6e7172;
+}
+.shop-b{
+    display: inline-block;
+    background: black;
+    color: white;
+    border: 1px solid black;
+    padding: 5px 20px;
+}
+.background .click{
+    color: white;
+    font-size: 0.8rem;
+}
+.shop-b{
+    color: white;
+    text-decoration: none;
+}
+.shop-b:hover{
+    background: #e97810;
+    border: none;
+}
+.background .click:hover{
+    text-decoration: none;
+}
+.falk, .agenda{
+    font-size: 2.8rem;
+}
+.library{
+    color: #6e7172;
+}
+.shop-w{
+    display: inline-block;
+    padding: 5px 25px;
+    background: transparent;
+    border: 1px solid #636363;
+}
+.shop-w .click-2{
+    color: #1e1e1f;
+    font-size: 0.8rem;
+}
+.shop-w .click-2:hover{
+    background: #e97810;
+    text-decoration: none;
+    color: white;
+}
+.shop-w:hover{
+    background: #e97810;
+    border: none;
+}
+.featured{
+    padding-left: 15px;
+}
+.f-bro{
+    font-size: 2rem;
+}
+.duong{
+    display: inline-block;
+    width: 20px;
+    height: 10px;
+    border-bottom: 1px solid grey ;
+}
+.collect{
+    display: inline-block;
+}
+.cartoon{
+    padding: 0 5px;
+}
+.cartoon .jacket{
+    color: #636363;
+}
+.cartoon .jacket:hover{
+    color: #e97810;
+    text-decoration: none;
+}
+.f-star{
+    font-size: 0.7rem;
+    color: yellow;
+}
+.f-star1{
+    font-size: 0.7rem;
+    color: #d0d0d0;
+}
